@@ -1,0 +1,1 @@
+var e=``+new URL(`consult-D5t1utkp.jpg`,import.meta.url).href;export{e as t};

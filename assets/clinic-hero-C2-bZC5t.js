@@ -1,0 +1,1 @@
+var e=``+new URL(`clinic-hero-DNyjn11a.jpg`,import.meta.url).href;export{e as t};

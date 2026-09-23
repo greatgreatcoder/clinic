@@ -1,0 +1,1 @@
+import{c as e,n as t,v as n}from"./primitives-ztENopUE.js";var r=n(),i=()=>(0,r.jsxs)(e,{className:`py-24 text-center`,children:[(0,r.jsx)(`h1`,{className:`display text-4xl`,children:`Role not found`}),(0,r.jsx)(`div`,{className:`mt-8 flex justify-center`,children:(0,r.jsx)(t,{to:`/careers`,children:`All open roles`})})]});export{i as notFoundComponent};
